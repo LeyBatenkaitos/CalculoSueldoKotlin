@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CalculoSueldo</string>
+    <string name="title_activity_calculo_de_honorario">CalculoDeHonorario</string>
+</resources>
